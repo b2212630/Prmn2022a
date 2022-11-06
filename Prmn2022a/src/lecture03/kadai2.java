@@ -20,10 +20,10 @@ public class kadai2 {
         }
 
         System.out.println("入力した文字列:");
-        for(int j = 0;j<n;j++){
-            s = sentence.get(j);
-            System.out.println("["+j+"] "+s);
-        }
+        //for(String  : sentence){
+            //s = sentence.get(j);
+            //System.out.println("["+j+"] "+s);
+        //}
 
     }
 }
